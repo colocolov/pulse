@@ -1,0 +1,24 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  font-family: 'Museo Sans Cyrl 300', sans-serif;
+}
+
+img {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 950px;
+  margin: 0 auto;
+}
+
+.promo {
+  min-height: 650px;
+  padding: 23px 0 93px 0px;
+  background: url(../image/main.jpg) center no-repeat;
+}
+/*# sourceMappingURL=style.css.map */
